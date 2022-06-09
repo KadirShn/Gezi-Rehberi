@@ -1,0 +1,391 @@
+{
+  "Kategoriler": {
+    "Ibadethaneler": {
+      "ibdt0": {
+        "yeradi": "Ayasofya Camii",
+        "yerbilgi": "İstanbul'un fethinden sonra Ayasofya camiye çevrilmiş ve cumhuriyet döneminde de müze olarak kalmıştır. 2020 yılında Ayasofya tekrardan cami olmuştur. Ayasofya İstanbul'un Fatih ilçesinde yer alan tarihi bir camidir. Ayasofya'nın tam adı günümüzde Ayasofya-i Kebir Cami'dir. Ayasofya ilk kurulduğunda tarihte bir katedral olarak kurulmuştu. Bu tarihi caminin eski ismi ise Ayasofya kilisesidir. Ayasofya günümüzden yaklaşık 1500 yıl önce inşa edilmiş bir tarihi yapıdır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fayasofya.jpg?alt=media&token=a9e59dad-cfa6-4f65-96c4-658e1e4d7216",
+        "yerno": "ibdt0",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "09:00-19:00",
+        "yerucret": "Ücretsiz"
+      },
+      "ibdt1": {
+        "yeradi": "Dolmabahçe Camii",
+        "yerbilgi": "Dolmabahçe Camii, Sultan Abdülmecit'in annesi Bezmialem Valide Sultan tarafından başlatılıp ölümü üzerine Sultan Abdülmecit tarafından tamamlanan ve tasarımı Garabet Balyan'a ait olan bir yapıdır. Asıl adı Bezmialem Valide Sultan Camii olan ama konumu nedeniyle Dolmabahçe Sarayı bütünü içinde düşünülüp birlikte anılan Dolmabahçe Camii, iki yılı aşkın bir yapım süreci sonunda 23 Mart 1855’te bir cuma töreniyle ibadete açılmıştır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fdolmabah%C3%A7e.jpg?alt=media&token=30af471d-99b2-4ca3-b7ca-83477cfc03b9",
+        "yerno": "ibdt1",
+        "yerpuan": 2,
+        "yerpuanstr": "2",
+        "yersure": "09:00-18:00",
+        "yerucret": "Ücretsiz"
+      },
+      "ibdt2": {
+        "yeradi": "Sent Antuan Kilisesi",
+        "yerbilgi": "St. Antuan Katolik Kilisesi (Fransızca: St. Antoine), İstanbul'un en büyük ve cemaati en geniş Katolik Kilisesi'dir. Beyoğlu'ndaki İstiklal Caddesi üzerinde Galatasaray'dan (Galatasaray Lisesi tarafında) Tünel'e doğru giderken sol tarafta bulunur.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fsaint-antoine.jpg?alt=media&token=e7040749-588e-4355-8064-2e3b07d29da0",
+        "yerno": "ibdt2",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "08:00-19:30",
+        "yerucret": "Ücretsiz"
+      }
+    },
+    "Kutuphaneler": {
+      "ktphn0": {
+        "yeradi": "Süleymaniye Yazma Eserler Kütüphanesi",
+        "yerbilgi": "Süleymaniye Külliyesi’nin birinci ve ikinci medreselerinin kitaplık haline getirilmesiyle meydana gelen, değerli yazma ve basma eser koleksiyonlarının bulunduğu Süleymaniye Yazma Eser Kütüphanesi, İstanbul’un çeşitli semtlerinde mevcut kütüphanelerdeki kitapların bir araya toplanmasıyla oluşmuştur. ",
+        "yerfotograf": "https://media.timeout.com/images/104684536/image.jpg",
+        "yerno": "ktphn0",
+        "yerpuan": 3,
+        "yerpuanstr": "3",
+        "yersure": "08:30-17:00",
+        "yerucret": "Ücretsiz"
+      },
+      "ktphn1": {
+        "yeradi": "Beyazıt Devlet Kütüphanesi",
+        "yerbilgi": "Beyazıt Devlet Kütüphanesi (eski adı:Kütüphane-i Umumî Osmanî), Bayezid Camii ve tarihî Sahaflar Çarşısı yakınında, Beyazıt Meydanı'na bakan iki tarihi binada 1884 yılından beri araştırmacılara hizmet veren kütüphanedir.",
+        "yerfotograf": "https://img.piri.net/mnresize/840/-/resim/imagecrop/2017/10/17/09/52/resized_25046-2229_tur_picture_20171016_13374039_13374037.jpg",
+        "yerno": "ktphn1",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "09:00-23:00",
+        "yerucret": "Ücretsiz"
+      },
+      "ktphn2": {
+        "yeradi": "Atıf Efendi Kütüphanesi",
+        "yerbilgi": "Atıf Efendi Kütüphanesi, İstanbul Vefa'da, Vefa Caddesi'nde Başdefterdar ve divan sahibi bir şair olan Atıf Mustafa Efendi'nin 1741 yılında yaptırmış olduğu bağımsız binası olan bir kütüphanedir. Osmanlı devletinde bağımsız bir binaya sahip olan ikinci kütüphanedir.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fatif.png?alt=media&token=00891039-fd7d-4ef4-805f-c0ef2bf024ac",
+        "yerno": "ktphn2",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "09:00-17:00",
+        "yerucret": "Ücretsiz"
+      }
+    },
+    "Marketler": {
+      "Mrkt0": {
+        "yeradi": "Mall Of İstanbul",
+        "yerbilgi": "Popüler zincir mağazalar, süpermarket, oyun alanları, sinema salonu ve fast food restoranlarıyla modern alışveriş merkezi.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fmallofist.jpg?alt=media&token=0d46e109-308a-44ff-8054-84ee3786d756",
+        "yerno": "Mrkt0",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "10:00-22:00",
+        "yerucret": "Ücretsiz"
+      },
+      "Mrkt1": {
+        "yeradi": "Torium AVM",
+        "yerbilgi": "Popüler zincir mağazalar, süpermarket, oyun alanları, sinema salonu ve fast food restoranlarıyla modern alışveriş merkezi.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Ftorium.jpg?alt=media&token=bb0f13f7-07d0-4496-b299-e531f5f8c92a",
+        "yerno": "Mrkt1",
+        "yerpuan": 2,
+        "yerpuanstr": "2",
+        "yersure": "10:00-22:00",
+        "yerucret": "Ücretsiz"
+      },
+      "Mrkt2": {
+        "yeradi": "İstinye Park",
+        "yerbilgi": "Popüler zincir mağazalar, süpermarket, oyun alanları, sinema salonu ve fast food restoranlarıyla modern alışveriş merkezi.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fistinye-park.jpg?alt=media&token=87a24c78-fc12-4045-9329-5079f2377663",
+        "yerno": "Mrkt2",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "10:00-22:00",
+        "yerucret": "Ücretsiz"
+      }
+    },
+    "Oteller": {
+      "otl0": {
+        "yeradi": "Elite World Asia",
+        "yerbilgi": "Anadolu Yakası’nın en keyifli lokasyonlarından biri olan Maltepe’de yer alan modern bir otel.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Felite-world.jpg?alt=media&token=64cb0fcc-7ced-4335-b0e7-015bfd7338bd",
+        "yerno": "otl0",
+        "yerpuan": 3,
+        "yerpuanstr": "3",
+        "yersure": "14:00-00:00",
+        "yerucret": "deneme"
+      },
+      "otl1": {
+        "yeradi": "Swissôtel The Bosphorus",
+        "yerbilgi": "2016 – 2020 Safe Hotels Executive Sertifikasına sahip Swissôtel The Bosphorus, İstanbul şehrin merkezinde, Boğaz'ın Avrupa kıyılarında yer alan, beş yıldızlı lüks bir oteldir.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2FSwissotel.jpg?alt=media&token=4735f2ab-6feb-4dba-98e7-d4c48cdd0671",
+        "yerno": "otl1",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "14:00-23:00",
+        "yerucret": "6139-8751 TL arası"
+      },
+      "otl2": {
+        "yeradi": "The Sign Şile Hotel",
+        "yerbilgi": "İstanbul’a yaklaşık 1 saat mesafede yer alan Şile’nin merkezine yakın bir noktada hizmet veren The Sign Şile Hotel & Spa, şehrin gürültüsünden uzak ve sakin bir tatil atmosferi sunan bir oteldir.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2FThe%20Sign%20%C5%9Eile%20Hotel.jpg?alt=media&token=ed6a6211-593c-4db8-9bad-201366fca6cb",
+        "yerno": "otl2",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "24 saat giriş mevcut",
+        "yerucret": "1084 TL"
+      }
+    },
+    "Otoparklar": {
+      "otoprk0": {
+        "yeradi": "Maçka Katlı Otoparkı",
+        "yerbilgi": "Lokasyon : 0851, Maçka Katlı Otoparkı Adres : TAŞKIŞLA CADDESİ İTFAİYE ÖNÜ ŞİŞLİ, Kapasite : 508",
+        "yerfotograf": "https://www.safakkeklik.com/images/content/UQYI395.jpg",
+        "yerno": "otoprk0",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "24 saat açık",
+        "yerucret": "480 TL"
+      },
+      "otoprk1": {
+        "yeradi": "15 Temmuz Şehitler Meydanı Otoparkı",
+        "yerbilgi": "Lokasyon : 1612 15 Temmuz Şehitler Meydanı Zeminaltı Otoparkı Adres : ÜMRANİYE 15 TEMMUZ ŞEHİTLER MEYDANI Kapasite : 978",
+        "yerfotograf": "https://www.safakkeklik.com/images/content/UQYI395.jpg",
+        "yerno": "otoprk1",
+        "yerpuan": 3,
+        "yerpuanstr": "3",
+        "yersure": "24 saat açık",
+        "yerucret": "390 TL"
+      },
+      "otoprk2": {
+        "yeradi": "Pendik Kemal Kalkuz Otoparkı",
+        "yerbilgi": "Lokasyon : 1562 Pendik Kemal Kalkuz Parkı Zemin Altı Otoparkı Adres : ORTA MH. 50.YIL CADDESİ LALE SK.NO:2, 34896 PENDİK / İSTANBUL Kapasite : 222",
+        "yerfotograf": "https://www.safakkeklik.com/images/content/UQYI395.jpg",
+        "yerno": "otoprk2",
+        "yerpuan": 2,
+        "yerpuanstr": "2",
+        "yersure": "24 saat açık",
+        "yerucret": "360 TL"
+      }
+    },
+    "Parklar": {
+      "prk0": {
+        "yeradi": "Gülhane Parkı",
+        "yerbilgi": "Gülhane Parkı, Osmanlı İmparatorluğu döneminde Topkapı Sarayı'nın dış bahçesiydi ve içinde bir koru ve gül bahçelerini barındırırdı. Türk tarihinde demokratikleşmenin ilk somut adımı olan Tanzimat Fermanı, 3 Kasım 1839'da Abdülmecit döneminde Hariciye Nazırı Mustafa Reşit Paşa tarafından Gülhane Parkı'nda okunmuştur ve bu nedenle Gülhane Hatt-ı Hümayunu da denir.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/Parklar%2FGulhane-Parki.jpg?alt=media&token=38131e9b-989e-4154-927e-952f550596cb",
+        "yerno": "prk0",
+        "yerpuan": 2,
+        "yerpuanstr": "2",
+        "yersure": "24 Saat Açık",
+        "yerucret": "Ücretsiz"
+      },
+      "prk1": {
+        "yeradi": "Emirgan Korusu",
+        "yerbilgi": "Emirgân Korusu, İstanbul'un Sarıyer ilçesinde yer alan bir korudur. İstanbul Boğazı kıyılarında, Emirgân-İstinye semtleri arasında yer alır. İstanbul Boğazı kıyısında, 47,2 hektarlık bir alanda sırtlar ve yamaçlar üstüne yayılmıştır. Çevresi yüksek duvarlarla çevrilmiş durumdadır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/Parklar%2Femirgan.jpg?alt=media&token=c4294a91-4653-4ebe-94fc-0bfff5e87077",
+        "yerno": "prk1",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "05:30-22:30",
+        "yerucret": "Ücretsiz"
+      },
+      "prk2": {
+        "yeradi": "Göztepe 60. Yıl Parkı",
+        "yerbilgi": "İstanbul ilinde bulunan Göztepe Parkı parklar arasında en çok sevilenlerinden birisi olmaktadır. İçerisinde bulundurduğu pek çok imkâna nedeni ile bu durumun temeli oluşmuştur. İlk olarak Göztepe parkı bünyesinde tam 116 çeşit ağaç bulunmaktadır. Bu ağaçların bir kısmı yeşil renkte olurken bir kısmı da kırmızı, sarı ve pembe renkte olmaktadır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/Parklar%2Fgostepepark.jpg?alt=media&token=823f0b2e-7e36-4819-8bd4-76d5b48b5854",
+        "yerno": "prk2",
+        "yerpuan": 3,
+        "yerpuanstr": "3",
+        "yersure": "09:00-23:00",
+        "yerucret": "Ücretsiz"
+      },
+      "prk3": {
+        "yeradi": "Yıldız Parkı",
+        "yerbilgi": "Yıldız Parkı (Yıldız Korusu olarak da bilinir), İstanbul'un, Beşiktaş İlçesinde yer alan tarihi park. Balmumcu'dan Ortaköy'e uzanan Palanga Caddesi kuzey ve doğu sınırını, Ortaköy'den Beşiktaş'a uzanan Çırağan Caddesi güney sınırını oluşturur. Biri Palanga Caddesi, diğeri de Çırağan Caddesi üzerinde olmak üzere iki ayrı kapısı olan Yıldız Parkı'nın içinde Malta köşkü ve Çadır Köşkü adı altında iki tane köşk vardır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/Parklar%2Fyildiz-park.jpg?alt=media&token=44e7c10e-3446-4032-941a-85533280a90d",
+        "yerno": "prk3",
+        "yerpuan": 5,
+        "yerpuanstr": "5",
+        "yersure": "09:00-22:30",
+        "yerucret": "Ücretsiz"
+      }
+    },
+    "Tarihiyerler": {
+      "trhyr0": {
+        "yeradi": "Beylerbeyi Sarayı",
+        "yerbilgi": "1863-65 yılları arasında inşa edilmiş, Boğaziçi’nin engin mavisine nazır bir saray. Set bahçeleriyle göz dolduran, köşkleriyle kendisine hayran bırakan 19. yüzyıl eseri olan Beylerbeyi Sarayı ve yapıları tarihin ve tarihî karakterlerin konuk olduğu eşsiz bir mekân.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fbeylerbeyi.jpg?alt=media&token=05884399-abaa-4dca-b4ed-d826768879f9",
+        "yerno": "trhyr0",
+        "yerpuan": 3,
+        "yerpuanstr": "3",
+        "yersure": "09:00-17:00",
+        "yerucret": "40 TL"
+      },
+      "trhyr1": {
+        "yeradi": "Galata kulesi",
+        "yerbilgi": "Galata Kulesi ya da müze olarak kullanılmaya başlaması sonrasındaki adıyla Galata Kulesi Müzesi, Türkiye'nin İstanbul şehrinin Beyoğlu ilçesinde bulunan bir kuledir. Adını, bulunduğu Galata semtinden alır.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Fgalata.jpg?alt=media&token=5a83e13d-19fa-42e9-a484-324e542ee913",
+        "yerno": "trhyr1",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "09:00-22:00",
+        "yerucret": "100 TL"
+      },
+      "trhyr2": {
+        "yeradi": "Rumeli Hisarı",
+        "yerbilgi": "Rumeli Hisarı, İstanbul'un Sarıyer ilçesinde Boğaziçi'nde bulunan ve bulunduğu semte adını veren hisar. Fatih Sultan Mehmet tarafından [[ İstanbul'un Fethi]]'nden önce Boğaz'ın kuzeyinden gelebilecek saldırıları engellemek için Anadolu yakasındaki Anadolu Hisarı'nın tam karşısına inşa ettirilmiştir.",
+        "yerfotograf": "https://firebasestorage.googleapis.com/v0/b/gezirehberi-1a7e2.appspot.com/o/tum%20foto%2Frumeli.jpg?alt=media&token=6330b564-f179-479a-a128-cce2060f5144",
+        "yerno": "trhyr2",
+        "yerpuan": 4,
+        "yerpuanstr": "4",
+        "yersure": "09:00-19:30",
+        "yerucret": "30 TL"
+      }
+    }
+  },
+  "Kullanicilar": {
+    "kTNYHoZMGvW7LbLZyrG7tDXor0f2": {
+      "email": "ofar38@gmail.com",
+      "firstName": "Ömer Faruk Ercivan"
+    },
+    "oBHu6GcbLGOvbDiYQSDddg1zOBH2": {
+      "email": "erva@gmail.com",
+      "firstName": "Erva Nur Yalçın"
+    },
+    "vpcjhviYmtX95rdIsDdJ9mGLpE33": {
+      "email": "kdr@gmail.com",
+      "firstName": "Kadir Şahin"
+    }
+  },
+  "Puanlar": {
+    "ibdt2": {
+      "sayi": 3.5,
+      "toplamkisi": 2,
+      "toplampuan": 7
+    },
+    "prk0": {
+      "sayi": 3,
+      "toplamkisi": 4,
+      "toplampuanlar": 12
+    },
+    "trhyr1": {
+      "sayi": 2,
+      "toplamkisi": 12,
+      "toplampuan": 24
+    }
+  },
+  "Yorumlar": {
+    "Mrkt0": {
+      "-N46sIM4MUkB_J7Ui8_a": {
+        "kullaniciad": "Ömer Faruk Ercivan",
+        "yorum": "güzel avm"
+      },
+      "-N46vvy4nFGud98jpq91": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Aradığım her şeyi bulabildiğim kocaman bir alışveriş merkezi"
+      },
+      "-N46xT60ShpZFg1O5I6z": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "Kocaman baya büyük."
+      }
+    },
+    "Mrkt1": {
+      "-N46w4jpUOcN1pJ5cvFB": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Çok kötü bir mekan."
+      }
+    },
+    "ibdt0": {
+      "-N46wCL99hsTJb8elLF8": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "mükemmel bir yer"
+      }
+    },
+    "ibdt2": {
+      "-N46wAgwXxFAPg5WK8fD": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Her dine saygımız var gezilecek güzel bir yer."
+      },
+      "-N46xjugHIaNiY4y0n-J": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "güzel yer"
+      }
+    },
+    "ktphn0": {
+      "-N46s8Lo0QpP0LqCurwL": {
+        "kullaniciad": "Ömer Faruk Ercivan",
+        "yorum": "çok çeşitli bilgiler barındıyoru"
+      },
+      "-N46vdB0-BXFwZqzS36r": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Orta seviye bir yer. Ulaşımı biraz zor olsa da gene de gidilir."
+      },
+      "-N46xNzVwgKkdOqmo_Ga": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "gezilecek güzel bir yer."
+      }
+    },
+    "ktphn1": {
+      "-N46votRbf6mVodJN4pN": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Gel çalış hayalini yaşa."
+      }
+    },
+    "ktphn2": {
+      "-N46vjtFD5immgGnMvDA": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Tarih ve kütüphane birleşmiş."
+      }
+    },
+    "otl0": {
+      "-N46xYtZxGKeOgfbMisG": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "İlk yorum çok öneririm "
+      }
+    },
+    "otl2": {
+      "-N46xhcaAdrmzqAIBTes": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "ulaşımı çok kolay "
+      }
+    },
+    "otoprk1": {
+      "-N46w_yzEgBYifT76o9b": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Kocaman park alanı ama gene de yetmiyor."
+      }
+    },
+    "prk0": {
+      "-N46s42F4osrb5Vk3noH": {
+        "kullaniciad": "Ömer Faruk Ercivan",
+        "yorum": "çok güzel yer. bayıldım"
+      },
+      "-N46vIji1UOJgWWNstTP": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Burası çok kötü bir yer çok pis."
+      },
+      "-N46vP00P5y_2EkdhlL9": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Şikayet ettim ama hala pis."
+      },
+      "-N46xGs15Mpr3b3kxz72": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "Ben gittim ama beğenmedim."
+      }
+    },
+    "prk1": {
+      "-N46v978qFx5eATIagye": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "Çocukluğumda gitmiştim çok güzel yerdi."
+      },
+      "-N46xdIoKRfrYM3C6ZpS": {
+        "kullaniciad": "Erva Nur Yalçın",
+        "yorum": "Yani baya iyi favorilerimde artık."
+      }
+    },
+    "prk2": {
+      "-N46vR5Y5609sQpDamvb": {
+        "kullaniciad": "Kadir Şahin",
+        "yorum": "mekan güzel."
+      }
+    },
+    "trhyr1": {
+      "-N46sB4o-eiO6W2BCQwA": {
+        "kullaniciad": "Ömer Faruk Ercivan",
+        "yorum": "manzarası harika"
+      }
+    }
+  }
+}

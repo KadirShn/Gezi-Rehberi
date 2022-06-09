@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.124" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1865" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1865" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/drawable/side_nav_bar.xml" value="0.1865" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_anasayfa_sayfasi.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_inadethane_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_kutuphane_sayfa.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_market_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_otel_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_otopark_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_parklar_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_parklar_sayfa2.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_fav_tarihiyerler_sayfa.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_favori_sayfa.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_genel_bilgi_sayfa.xml" value="0.536" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_main.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_market_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_otopark_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_parklar_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/activity_tarihiyerler_sayfa.xml" value="0.245018115942029" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/eleman.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi - Copy/app/src/main/res/layout/eleman_yorum.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/drawable/gondermevector.xml" value="0.217" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.217" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.113" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/drawable/side_nav_bar.xml" value="0.217" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_genel_bilgi_sayfa.xml" value="0.3622222222222222" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_giris_ekran.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_ibadethane_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_kutuphane_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_market_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_otel_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_otopark_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_parklar_sayfa.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_tarihiyerler_sayfa.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_testsayfapark.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/activity_uye_ekran.xml" value="0.25" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/app_bar_denememenu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/content_denememenu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/eleman.xml" value="0.264" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/fragment_gallery.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/fragment_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/fragment_slideshow.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/nav_header_denememenu.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/shnka/Desktop/GeziRehberi/app/src/main/res/layout/yorumelement.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

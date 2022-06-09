@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kadirsahin.gezirehberi">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logo"
+        android:label="GezGor"
+        android:roundIcon="@mipmap/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GeziRehberi"
+        tools:targetApi="31">
+        <activity
+            android:name=".FavTarihiyerlerSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Tarihi Yerler"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavOtoparkSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Otoparklar"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavOtelSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Oteller"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavMarketSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Marketler"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavKutuphaneSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Kutuphaneler"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavInadethaneSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Ibadethaneler"
+            android:parentActivityName=".FavoriSayfa"/>
+        <activity
+            android:name=".FavParklarSayfa"
+            android:exported="false"
+            android:label="GezGör:Favori Parklar"
+            android:parentActivityName=".FavoriSayfa" />
+        <activity
+            android:name=".FavoriSayfa"
+            android:exported="false"
+            android:label="GezGör:Favoriler"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".TarihiyerlerSayfa"
+            android:exported="false"
+            android:label="GezGör:Tarihi Yerler"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".OtoparkSayfa"
+            android:exported="false"
+            android:label="GezGör:Otoparklar"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".OtelSayfa"
+            android:exported="false"
+            android:label="GezGör:Oteller"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MarketSayfa"
+            android:exported="false"
+            android:label="GezGör:Marketler"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".IbadethaneSayfa"
+            android:exported="false"
+            android:label="GezGör:Ibadethaneler"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".KutuphaneSayfa"
+            android:exported="false"
+            android:label="GezGör:Kütüphaneler"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".GenelBilgiSayfa"
+            android:exported="false"
+            android:label="GezGör:Genel Bilgi"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ParklarSayfa"
+            android:exported="false"
+            android:label="GezGör:Parklar"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".UyeEkran"
+            android:exported="false" />
+        <activity
+            android:name=".GirisEkran"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="GezGör">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

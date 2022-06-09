@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#dac5e8"
+    tools:context=".UyeEkran">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/isim"
+        android:layout_above="@id/email"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/isimET"
+            android:layout_width="match_parent"
+            android:background="#b999cf"
+            android:layout_height="wrap_content"
+            android:hint="Tum İsim"
+            android:textSize="18dp"
+            android:textColor="#eee1f7"
+            android:inputType="textEmailAddress" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/email"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/emailET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email"
+            android:textSize="18dp"
+            android:textColor="#eee1f7"
+            android:background="#b999cf"
+            android:inputType="textEmailAddress" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/sifre"
+        android:layout_below="@id/email"
+        app:passwordToggleEnabled="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/sifreET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18dp"
+            android:textColor="#eee1f7"
+            android:background="#b999cf"
+            android:hint="Şifre"
+            android:inputType="textPassword" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/girisbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sifre"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="#9c60c4"
+        android:padding="10dp"
+        android:text="~Üye Ol~"
+        android:textAlignment="center"
+        android:textColor="#eed6ff"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/isim"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:text="ÜYE OL"
+        android:textAlignment="center"
+        android:textColor="#9c60c4"
+        android:textSize="46sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="3dp"
+        android:text="Zaten Hesabınız Varsa:" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/textView"
+        android:layout_marginLeft="3dp"
+        android:layout_toRightOf="@id/textView"
+        android:text="Girişe Git"
+        android:textColor="#2196F3"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>

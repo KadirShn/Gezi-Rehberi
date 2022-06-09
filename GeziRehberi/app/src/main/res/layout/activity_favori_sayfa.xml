@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#dac5e8"
+    tools:context=".MainActivity">
+    <TextView
+        android:id="@+id/baslikmetin"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:layout_marginTop="8dp"
+        android:text="HOSGELDİN"
+        android:textAlignment="center"
+        android:textColor="#673AB7"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/parkbtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/park"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/baslikmetin" />
+
+    <ImageButton
+        android:id="@+id/tarihiyerbtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/tarihiyer"
+        app:layout_constraintStart_toStartOf="@+id/parkbtnf"
+        app:layout_constraintTop_toBottomOf="@+id/parkbtnf" />
+
+    <ImageButton
+        android:id="@+id/otelbtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/otel"
+        app:layout_constraintEnd_toEndOf="@+id/kutuphanebtnf"
+        app:layout_constraintStart_toStartOf="@+id/kutuphanebtnf"
+        app:layout_constraintTop_toBottomOf="@+id/kutuphanebtnf" />
+
+    <ImageButton
+        android:id="@+id/marketbtn"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/market"
+        app:layout_constraintStart_toStartOf="@+id/tarihiyerbtnf"
+        app:layout_constraintTop_toBottomOf="@+id/tarihiyerbtnf" />
+
+    <ImageButton
+        android:id="@+id/otoparkbtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/otopark"
+        app:layout_constraintStart_toStartOf="@+id/marketbtn"
+        app:layout_constraintTop_toBottomOf="@+id/marketbtn" />
+
+    <ImageButton
+        android:id="@+id/ibadethanebtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="14dp"
+        android:background="@drawable/ibadethane"
+        app:layout_constraintEnd_toEndOf="@+id/otelbtnf"
+        app:layout_constraintTop_toBottomOf="@+id/otelbtnf" />
+
+    <ImageButton
+        android:id="@+id/kutuphanebtnf"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="64dp"
+        android:background="@drawable/kutuphane"
+        app:layout_constraintStart_toEndOf="@+id/parkbtnf"
+        app:layout_constraintTop_toTopOf="@+id/parkbtnf" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

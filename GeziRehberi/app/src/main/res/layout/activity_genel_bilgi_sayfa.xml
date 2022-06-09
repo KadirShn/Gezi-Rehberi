@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:background="#dac5e8"
+    tools:context=".GenelBilgiSayfa">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.39">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/bilgiyerad"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="10dp"
+                android:text="Göztepe 60. Yıl Parkı"
+                android:textColor="#450063"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/ortgenel"
+                android:layout_width="32dp"
+                android:layout_height="20dp"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="3dp"
+                android:layout_toRightOf="@id/bilgiyerad"
+                android:text="0"
+                android:textAlignment="center"
+                android:textColor="#450063"
+                android:textSize="16dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/starfoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@id/ortgenel"
+                android:background="@drawable/yildizvector" />
+
+            <ImageView
+                android:id="@+id/bilgiyerfoto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/bilgiyerad"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/bilgiyersure"
+                android:layout_width="176dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/bilgiyerfoto"
+                android:layout_marginBottom="10dp"
+                android:textColor="#450063"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/bilgiyerucret"
+                android:layout_width="176dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/bilgiyerfoto"
+                android:layout_marginBottom="10dp"
+                android:layout_toRightOf="@id/bilgiyersure"
+                android:textColor="#450063"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/hakkindatxt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/bilgiyersure"
+                android:layout_marginBottom="1dp"
+                android:scrollbars="vertical"
+                android:text="Hakkında:"
+                android:textColor="#450063"
+                android:textSize="19sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/bilgiyerbilgilendirme"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_below="@id/hakkindatxt"
+                android:layout_marginBottom="10dp"
+                android:scrollbars="vertical"
+                android:textColor="#450063"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/yorumgostertxt"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/bilgiyerbilgilendirme" />
+
+            <RatingBar
+                android:id="@+id/ratingbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/yorumgostertxt"
+                android:numStars="5"
+                android:progressTint="#450063"
+                android:stepSize="1" />
+
+            <Button
+                android:id="@+id/oylabtn"
+                android:layout_width="80dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/yorumgostertxt"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@+id/ratingbar"
+                android:text="OYLA" />
+
+
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvyorum"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_below="@id/ratingbar"
+                android:layout_marginBottom="8dp"
+                android:scrollbars="horizontal" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/rvyorum">
+
+                <EditText
+                    android:id="@+id/yorumET"
+                    android:layout_width="318dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:background="#DEBAF6"
+                    android:hint="Yorum Yap"
+                    android:textColor="#91009e"
+                    android:textSize="18dp" />
+
+                <ImageButton
+                    android:id="@+id/yorumbuton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="4dp"
+                    android:layout_toRightOf="@+id/yorumET"
+                    android:background="@drawable/gondermevector" />
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

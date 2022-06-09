@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "496143837774",
+    "firebase_url": "https://gezirehberi-1a7e2-default-rtdb.firebaseio.com",
+    "project_id": "gezirehberi-1a7e2",
+    "storage_bucket": "gezirehberi-1a7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496143837774:android:9717c1135e4ca85526b11f",
+        "android_client_info": {
+          "package_name": "com.kadirsahin.gezirehberi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496143837774-40j3449cveji157r3vtskh2ac37ui6r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznLbTOPwEDSNXt1szTm86IAXibCxOCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496143837774-40j3449cveji157r3vtskh2ac37ui6r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
