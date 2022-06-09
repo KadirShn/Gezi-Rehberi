@@ -5,6 +5,10 @@ Uygulamayı kullanmaya başlarken öncellikle giriş yapılmalı. Uygulama açı
 Ana menüde daha önce bahsettiğimiz mekanları kategorize edilmiş bir şekilde sembollerle görürüz. Mekanlar dışında favoriler ve çıkış butonu da bulunur. Park kategorisine girildiğinde bulunduğunuz şehirde var olan parklar fotoğraflarıyla listelenir. İstediğiniz bir parkı seçtiğinizde açılan sayfada parkın adı, fotoğrafı, açık olduğu saatler, park hakkında genel bilgi, parka verilmiş ortalama puan durumu, sizin oylayabileceğiniz ve yorum yapabileceğiniz bir alan bulunur. Puanlar yani oylar 1 ila 5 arasında verilir ve ortalama puan durumu gösterilir. Ayrıca daha önceden yapılmış yorumlar da burada listelenir. Yorum yapıldığında “Yorum Yapıldı” bildirisi gelir. Diğer tüm mekanlarda ise işleyiş aynı şekildedir. Favorilere gelindiğinde ise yine mekanlar sembolleriyle listelenir. Herhangi bir mekanı seçtiğinizde ise puan ortalaması 4 ve üzeri olan mekanlar; yani park seçildiyse parklar, otel seçildiyse oteller veya tarihi yer seçildiyse tarihi yerler listelenir. Ve yine buradan istenilen mekana tıklandığında mekan hakkındaki genel bilgi bulunan kısma yönlendirilir. Son olarak çıkış butonuyla da uygulamadaki hesabınızdan çıkış yapılır. 
 Uygulama recycler bir şekilde çalışır. Veri tabanındaki verileri otomatik bir şekilde çeker ve uygulamada gösterir. GezGör uygulaması java dilinde kodlanmış olup, veri tabanı olarak firebase realtime kullanılmıştır. Üyelik girişi için ayrı olarak firebase authentication kullanılmıştır.
 
+# Uygulama Gif
+
+<img src="https://github.com/KadirShn/Gezi-Rehberi/blob/main/gezgor.gif" width="44%" height="44%" />
+
 # Veritabanı
 ![Authentication](https://user-images.githubusercontent.com/99869817/172833105-27980406-e70a-497d-bab0-5b9d3d245995.PNG)
 <br/>
