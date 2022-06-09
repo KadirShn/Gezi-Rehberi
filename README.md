@@ -6,7 +6,7 @@ Ana menüde daha önce bahsettiğimiz mekanları kategorize edilmiş bir şekild
 Uygulama recycler bir şekilde çalışır. Veri tabanındaki verileri otomatik bir şekilde çeker ve uygulamada gösterir. GezGör uygulaması java dilinde kodlanmış olup, veri tabanı olarak firebase realtime kullanılmıştır. Üyelik girişi için ayrı olarak firebase authentication kullanılmıştır.
 
 # Uygulama Gif
-Dosya boyutu büyük olduğu için gif geç yüklenmektedir.
+Dosya boyutu büyük olduğu için gif geç yüklenmektedir. Gifi isterseniz yukarıda dosyalardan indirebilirsiniz.
 <br/>
 
 <img src="https://github.com/KadirShn/Gezi-Rehberi/blob/main/gezgor.gif" width="44%" height="44%" />
